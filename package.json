@@ -2,7 +2,7 @@
   "name": "agenda-personal",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tusername.github.io/agenda-personal",
+  "homepage": "https://WilberSaint.github.io/agenda-personal",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

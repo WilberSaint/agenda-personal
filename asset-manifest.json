@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agenda-personal/static/css/main.653b7efb.css",
+    "main.js": "/agenda-personal/static/js/main.f9724c41.js",
+    "index.html": "/agenda-personal/index.html",
+    "main.653b7efb.css.map": "/agenda-personal/static/css/main.653b7efb.css.map",
+    "main.f9724c41.js.map": "/agenda-personal/static/js/main.f9724c41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653b7efb.css",
+    "static/js/main.f9724c41.js"
+  ]
+}
